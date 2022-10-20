@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ViswaBonam
 - 👀 I’m a Data Science Enthusiast 
-- 🌱 I’m currently learning machine Learning algorithms and neural networks
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/viswabonam/),[Instagram](https://www.instagram.com/viswa.bonam/)
 
 <!---
