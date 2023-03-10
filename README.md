@@ -17,7 +17,7 @@
 - Databases        : SQL (MySQL), Excel
 - Python           : NumPy, Pandas,
 - Visualisation    : Tableau, PowerBI, Matplotlib, Seaborn
-- Machine Learning : Linear Regression, Logistic regression, Decision Trees, 
+- Machine Learning : Linear Regression, Logistic regression, Decision Trees, Deep Learning(Learning⌛)
 
 --------------
 
