@@ -1,4 +1,4 @@
-👋 Hi, I’m Viswa Bonam, a self-taught data analyst from India. With a background in Mechanical Engineering, I transitioned to data in 2021 and have been teaching myself SQL, Python, and Tableau ever since. 
+👋 Hi, I’m Viswa Bonam, a self-taught data analyst from India. With a background in Mechanical Engineering, I transitioned to data in 2022 and have been teaching myself SQL, Python, and Tableau ever since. 
 - You can find my projects here 👇
 
 [![Portfolio](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ViswaBonam/Viswa-Bonam-Portfolio)
