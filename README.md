@@ -1,23 +1,49 @@
-👋 Hello! I'm Viswa Sai Ammiraju Bonam
-💼 Aspiring Financial Analyst and Data Science Professional with hands-on experience in predictive modeling, machine learning, and financial analysis to drive impactful decision-making. Currently pursuing a Master’s in Financial Technology and Analytics at The University of Texas, I’m passionate about leveraging data-driven insights for high-stakes finance and business applications. 👇
+# 👋 Hi, I'm Viswa Sai Ammiraju Bonam
 
-----------
+🎓 Graduate Student | 💼 Aspiring Financial Analyst & Data Science Professional  
+📍 Based in United States | 📧 viswa.bonam@utdallas.edu | 🌐 [Portfolio Website](https://viswabonam.com)
 
-## 💡 Technical Skills
-- Programming: Python, SQL, R, Java
-- Data Science: Feature Engineering, Predictive Modeling, Data Preprocessing, Model Tuning
-- Visualization: PowerBI, Tableau, Matplotlib, Seaborn
-- Cloud: AWS, Azure (Microsoft Certified: Azure Data Scientist Associate)
-- Other: NLP, LangChain, FAISS, Data Mining, Web Scraping
+---
 
---------------
+## 🚀 About Me
+I’m a data-driven problem solver currently pursuing my Master’s in Financial Technology and Analytics at **The University of Texas at Dallas**. With hands-on experience as a Financial Analyst and Machine Learning Specialist, I specialize in **predictive modeling**, **financial data analysis**, and **real-time analytics**.
 
-## 📈 Let's Connect!
-I’m actively looking for roles in data science, financial analysis, or machine learning that allow me to apply my expertise in driving measurable results. If you're looking for someone who brings strong analytical skills, an eye for strategy, and a passion for data, let’s chat!
-- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viswabonam/)
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viswa.bonam/)
+My passion lies in transforming complex datasets into strategic insights that drive performance in high-stakes financial environments.
 
-<!---
-ViswaBonam/ViswaBonam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🧠 Core Competencies
+
+**Programming & Data:**  
+Python | SQL | R | Java | Pandas | NumPy | Scikit-learn | XGBoost | TensorFlow | LangChain | FAISS  
+
+**Analytics & Modeling:**  
+Predictive Modeling | Feature Engineering | Data Preprocessing | Model Tuning | Credit Scoring | SHAP Analysis  
+
+**Visualization & Reporting:**  
+Tableau | PowerBI | Matplotlib | Seaborn  
+
+**Cloud & Big Data:**  
+AWS | Azure (Microsoft Certified: Azure Data Scientist Associate) | Kafka | Cassandra | Apache Spark  
+
+---
+
+## 📊 Featured Projects
+
+- **📈 Stock Return Prediction**: Achieved 20% accuracy improvement using ML models on financial statement data.  
+- **🧾 American Express Credit Default Prediction**: Delivered a 94.7% AUC using advanced feature engineering and neural networks.  
+- **⚡ Real-Time Data Streaming Pipeline**: Deployed Kafka + AWS S3 + Athena for near-instant analytics at scale.  
+- **🧠 Equity Insight Tool**: Built an AI-driven research tool using LangChain & FAISS, reducing article analysis time by 60%.  
+
+Explore all projects in the pinned section or repositories below 👇
+
+---
+
+## 📫 Let’s Connect!
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/viswabonam/)
+- 📸 [Instagram](https://www.instagram.com/viswa.bonam/)
+
+---
+
+🔍 I’m actively seeking **Data Science**, **Financial Analyst**, or **Machine Learning** roles where I can leverage analytics and technology to drive business impact. Let’s build something impactful together!
