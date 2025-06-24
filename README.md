@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me
-I’m a data-driven problem solver currently pursuing my Master’s in Financial Technology and Analytics at **The University of Texas at Dallas**. With hands-on experience as a Financial Analyst and Machine Learning Specialist, I specialize in **predictive modeling**, **financial data analysis**, and **real-time analytics**.
+I’m a data-driven problem solver with a Master’s in Financial Technology and Analytics at **The University of Texas at Dallas**. With hands-on experience as a Financial Analyst and Machine Learning Specialist, I specialize in **predictive modeling**, **financial data analysis**, and **real-time analytics**.
 
 My passion lies in transforming complex datasets into strategic insights that drive performance in high-stakes financial environments.
 
